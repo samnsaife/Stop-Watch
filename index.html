@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Watch</title>
+    <!-- Link to external style sheet for styling -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Container for the stopwatch and buttons -->
+    <div class="box">
+        <!-- Heading for the stopwatch section -->
+        <h2 class="heading">Stop Watch</h2>
+        <!-- Display area for the stopwatch time -->
+        <h1 id="stopwatch">00 : 00 : 00</h1>
+        <!-- Button to start the stopwatch with specific background color -->
+        <button onclick="start()" style="background-color: rgb(161, 202, 161);">Start</button>
+        <!-- Button to stop the stopwatch with specific background color -->
+        <button  onclick="stop()" style="background-color: rgba(231, 14, 14, 0.801);">Stop</button>
+        <!-- Button to reset the stopwatch with specific background color -->
+        <button onclick="reset()" style="background-color: rgb(121, 121, 212);">Reset</button>
+    </div>
+     <!-- Include external JavaScript file for stopwatch functionality -->
+    <script src="script.js"></script>
+    
+</body>
+</html>
