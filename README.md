@@ -36,12 +36,14 @@ https://samnsaife.github.io/Stop-Watch/
 
 ## 📂 Project Structure
 
-Stop-Watch/│├── index.html # Main HTML UI
-            ├── style.css # Styling for stopwatch
-            ├── script.js # Functionality & logic
-            ├── README.md # Project documentation
-            └── screenshots/ # Preview images for README
-
+```
+Stop-Watch/
+├── index.html        # Main HTML UI
+├── style.css         # Styling for stopwatch
+├── script.js         # Functionality & logic
+├── README.md         # Project documentation
+└── screenshots/      # Preview images for README
+```
 ---
 
 ## 🛠️ Built With
@@ -86,17 +88,8 @@ open index.html
 ```
 or simply double-click it.
 
-⭐ Support
----------
-
-If you find this project helpful, feel free to:
-
-🌟 Star the repository📢 Share it with others
 
 👩‍💻 Author
 ------------
 
-**Sami Noor Saifi** 
-Aspiring AI/ML Engineer | Web Developer
-
-Thank you for visiting! ❤️
+Sami Noor Saifi
